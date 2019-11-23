@@ -1,5 +1,7 @@
 /*
-He now asks the doctors to insert the minimum number of characters needed to make S a palindrome. Help the doctors accomplish this task
+coder@devsks
+
+Link : https://www.spoj.com/problems/AIBOHP/
 */
 #include <bits/stdc++.h>
 #define ll long long
